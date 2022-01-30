@@ -93,12 +93,12 @@ const config = {
   //   console.log('This failed: ', error);
   // });
   // ! Create data 2 - Push
-  database.ref('expenses').push({
-    description: 'Rent',
-    note: '',
-    amount: 109500,
-    createdAt: 784654
-  })
+  // database.ref('expenses').push({
+  //   description: 'Rent',
+  //   note: '',
+  //   amount: 109500,
+  //   createdAt: 784654
+  // })
 
   // ! Read Data
   // *Once example
