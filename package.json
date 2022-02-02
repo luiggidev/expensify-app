@@ -60,5 +60,9 @@
     "jest": "^27.4.3",
     "react-test-renderer": "16.0.0",
     "webpack-dev-server": "2.5.1"
+  },
+  "engines": {
+    "node": "v12.15.0",
+    "npm": "6.13.4"
   }
 }
