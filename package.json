@@ -1,8 +1,8 @@
 {
-  "name": "expensify",
+  "name": "boilerplate-react-app",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "Luiggi Annes",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
